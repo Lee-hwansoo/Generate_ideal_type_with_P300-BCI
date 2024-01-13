@@ -263,7 +263,7 @@ urllib3==1.26.16
 - selenium: [https://github.com/yildbs/Crawl.Pinterest/blob/master/main.py](https://github.com/yildbs/Crawl.Pinterest/blob/master/main.py)
 - P300 detection: [https://github.com/DimensionSTP/eeg](https://github.com/DimensionSTP/eeg)
 - Image2StyleGAN: [https://github.com/zaidbhat1234/Image2StyleGAN](https://github.com/zaidbhat1234/Image2StyleGAN)
-- StyleGAN3: [https://github.com/NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)
+- StyleGAN3: [https://github.com/NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) , stylegan3-r-ffhqu-1024x1024.pkl
 
 # 참고
 
