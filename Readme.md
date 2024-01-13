@@ -73,7 +73,7 @@ python erp_ideal_type_main.py --num_trials 5 --num_images 30 --lowcut 1 --highcu
 
 ```markdown
 PROJECT
-**│   ├── crawling/
+│   ├── crawling/
 │   │   ├── chromedriver.exe
 │   │   ├── crawling_google.py
 │   │   ├── crawling_pinterest.py
@@ -110,8 +110,8 @@ PROJECT
 │   │   │   ├── plot.py
 │   │   │   ├── preprocess.py
 │   │   │   ├── recommendation.py
-│   │   │   ├── task.py**
-**│   │   ├── StyleGAN/**
+│   │   │   ├── task.py
+│   │   ├── StyleGAN/
 │   │   │   ├── dnnlib/
 │   │   │   │   ├── __init__.py
 │   │   │   │   ├── util.py
@@ -145,15 +145,15 @@ PROJECT
 │   │   │   │   │   ├── upfirdn2d.py
 │   │   │   │   ├── persistence.py
 │   │   │   │   ├── training_stats.py
-**│   │   │   ├── save_images/**
-**│   │   │   ├── images/
+│   │   │   ├── save_images/
+│   │   │   ├── images/
 │   │   │   ├── latent/
 │   │   │   ├── weights_test.ipynb
 │   │   │   ├── generate_ideal_type.py
-│   │   │   ├── make_latent_vector.ipynb**
-**│   │   ├── erp_ideal_type_main.py**
-**│   ├── 신경공학 기말 보고서_이환수_최예빈.pdf
-│   ├── README.md**
+│   │   │   ├── make_latent_vector.ipynb
+│   │   ├── erp_ideal_type_main.py
+│   ├── 신경공학 기말 보고서_이환수_최예빈.pdf
+│   ├── README.md
 ```
 
 - **crawling/ :** 크롤링 진행 폴더
